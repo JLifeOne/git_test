@@ -1,2 +1,1 @@
-This is my Hello World document
- 
+This is my Hello World documentation
